@@ -8,7 +8,7 @@
    vars:
      keypair: mySep22Key
      instance_type: t2.micro
-     image: ami-0ee23bfc74a881de5
+     image: ami-0cd7460ccd818a8e7
      wait: yes
      group: webserver
      count: 1
