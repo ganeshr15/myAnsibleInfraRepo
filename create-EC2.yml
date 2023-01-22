@@ -6,7 +6,7 @@
    tags: provisioning
 
    vars:
-     keypair: mySep22Key
+     keypair: Ganesh
      instance_type: t2.micro
      image: 	ami-0fbe77c266d1710e5
      wait: yes
