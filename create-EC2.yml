@@ -6,13 +6,13 @@
    tags: provisioning
 
    vars:
-     keypair: Ganesh
+     keypair: Harsh
      instance_type: t2.micro
-     image: 	ami-0fbe77c266d1710e5
+     image: 	ami-0557a15b87f6559cf
      wait: yes
      group: webserver
      count: 1
-     region: ap-south-1
+     region: us-east-1
      security_group: ec2-security-group
    
    tasks:
